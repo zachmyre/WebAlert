@@ -3,7 +3,7 @@ A simple program that pings a website or multiple websites and sends an alert em
 
 ########### 
 You have to have less secure apps enabled for this to work with GMail (only works with GMail). 
-############
+###########
 
 1) Change gmail_user variable to your gmail account.
 2) Change gmail_password variable to your gmail password.
